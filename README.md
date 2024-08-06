@@ -1,11 +1,6 @@
 # Sorteador de números
 
-<img src="https://img.shields.io/badge/CONCLU%C3%8DDO-brightgreen?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/ALURA-darkblue?style=for-the-badge">
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge"> <br><br>
-<img src="./img/Prévia.jpg">
+<img src="https://img.shields.io/badge/CONCLU%C3%8DDO-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/ALURA-darkblue?style=for-the-badge"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge"> <br><br> <img src="./img/Prévia.jpg">
 
 ### 📌 Tópicos 
 
